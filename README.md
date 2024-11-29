@@ -3,7 +3,7 @@
 # Отчет по работе с Git
 
 ## 1. Создание форка
-Сделана копия в личное хранилище из [https://github.com/ae0nf1ux/LR6.git](https://github.com/kruasanchikk1/LR6)
+Сделана копия в личное хранилище из https://github.com/kruasanchikk1/LR6
 
 ## 2. Настройка клиента git
 Команда для изменения имени пользователя:
@@ -19,7 +19,7 @@ $ git config --global user.email "egorkalvlup7@gmail.com"
 *Результаты изменения имени и почты пользователя*  
 
 
-![Результаты изменения](![photo_1](https://github.com/user-attachments/assets/8502d03c-ff4a-47e9-abcf-2010dcfe0a12)
+![Результаты изменения](photo_1.png)
 )
 
 ## 3. Клонирование репозитория
