@@ -116,9 +116,14 @@ $ git git log --oneline --pretty=format:"%h %ad | %s | %an" --date=short
 Список истории операций:
 ```
 * 5ca0537 (HEAD -> master, origin/master, origin/HEAD) Add files via upload
-* 921f53b Обновление информации
-* c08a654 Файл создан пустым
-* 3c6e913 Initial commit
+* 2ae391e 2024-11-29 kruasanchikk1 изменение в файле 1
+* 4e0cf89 2024-11-29 kruasanchikk1 тест git bash
+* 55ec9d1 2024-11-29 kruasanchikk1 создание нового файла
+* 47c12b7 2024-11-29 kruasanchikk1 создание нового файла
+* 921f53b 2020-11-21 Kurtyanik Обновление информации
+* c08a654 2020-11-21 Kurtyanik Файл создан пустым
+* 3c6e913 2020-11-21 Kurtyanik Initial commit
+
 
 ```
 
